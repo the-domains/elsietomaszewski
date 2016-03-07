@@ -1,0 +1,28 @@
+name: ElsieTomaszewski
+favicon: null
+layout_spectrum: 0.2620435166172683
+typography_spectrum: 0.4779933812096715
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2302506163250655
+  lightness: 0.30638252780772746
+  saturation: 0.5683352784253657
+  rhythmicContrast: 0.15864346106536686
+purpose: []
