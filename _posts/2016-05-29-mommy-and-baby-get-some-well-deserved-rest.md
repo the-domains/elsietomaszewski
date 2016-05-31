@@ -1,12 +1,21 @@
 ---
-dateModified: '2016-05-29T18:30:25.915Z'
-description: ''
 inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-31T15:39:37.048Z'
+dateModified: '2016-05-31T15:37:20.407Z'
 title: Mommy and baby get some well deserved rest
-author: []
-starred: false
-datePublished: '2016-05-29T18:30:34.343Z'
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-29-mommy-and-baby-get-some-well-deserved-rest.md
+authors: []
+publisher: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
