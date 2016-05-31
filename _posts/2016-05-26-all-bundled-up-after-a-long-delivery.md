@@ -1,12 +1,21 @@
 ---
-dateModified: '2016-05-26T14:42:57.110Z'
-description: ''
 inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-31T15:39:19.744Z'
+dateModified: '2016-05-31T15:37:55.549Z'
 title: All bundled up after a long delivery
-author: []
-starred: false
-datePublished: '2016-05-26T14:43:11.228Z'
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-26-all-bundled-up-after-a-long-delivery.md
+authors: []
+publisher: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
