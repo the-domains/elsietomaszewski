@@ -1,12 +1,21 @@
 ---
-dateModified: '2016-05-29T18:29:44.989Z'
-description: ''
 inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-31T15:39:28.898Z'
+dateModified: '2016-05-31T15:37:34.223Z'
 title: Daddy daughter dates
-author: []
-starred: false
-datePublished: '2016-05-29T18:30:00.593Z'
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-29-daddy-daughter-dates.md
+authors: []
+publisher: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
