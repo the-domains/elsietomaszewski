@@ -1,12 +1,19 @@
 ---
-dateModified: '2016-05-31T14:21:52.622Z'
-description: ''
 inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-31T15:30:12.126Z'
+dateModified: '2016-05-31T15:30:08.869Z'
 title: The Tomaszewski family with its new addition
 author: []
-starred: false
-datePublished: '2016-05-31T14:22:00.170Z'
 sourcePath: _posts/2016-05-31-the-tomaszewski-family-with-its-new-addition.md
+authors: []
+publisher: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
