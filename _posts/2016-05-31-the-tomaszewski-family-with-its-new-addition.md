@@ -6,10 +6,12 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-31T15:30:12.126Z'
-dateModified: '2016-05-31T15:30:08.869Z'
+datePublished: '2016-05-31T15:39:52.133Z'
+dateModified: '2016-05-31T15:30:20.402Z'
 title: The Tomaszewski family with its new addition
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-31-the-tomaszewski-family-with-its-new-addition.md
 authors: []
 publisher: null
