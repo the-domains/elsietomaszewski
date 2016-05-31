@@ -1,12 +1,19 @@
 ---
-dateModified: '2016-05-31T15:46:00.488Z'
-description: ''
 inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-31T15:47:14.183Z'
+dateModified: '2016-05-31T15:47:08.446Z'
 title: Mornings in our jammies
 author: []
-starred: false
-datePublished: '2016-05-31T15:46:07.614Z'
 sourcePath: _posts/2016-05-31-mornings-in-our-jammies.md
+authors: []
+publisher: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
